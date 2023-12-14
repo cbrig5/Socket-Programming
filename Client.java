@@ -93,8 +93,8 @@ public class Client {
   public static void main(String[] args) {
     // local test
     // Client client = new Client("localhost", 60000);
-    
+
     // lan test
-    Client client = new Client("192.168.50.255", 60000);
+    Client client = new Client("137.21.132.239", 60000);
   }
 }
